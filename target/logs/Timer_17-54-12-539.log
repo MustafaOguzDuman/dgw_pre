@@ -1,0 +1,8 @@
+17:54:12 [main] INFO  com.i2i.App - MSISDN: 01370302824
+17:54:12 [main] WARN  com.i2i.App - Location: TURKEY
+17:54:12 [main] ERROR com.i2i.App - Service: DATA
+17:54:12 [main] FATAL com.i2i.App - Amount: 331950078
+17:54:12 [main] INFO  com.i2i.App - MSISDN: 06600704510
+17:54:12 [main] WARN  com.i2i.App - Location: TURKEY
+17:54:12 [main] ERROR com.i2i.App - Service: SMS
+17:54:12 [main] FATAL com.i2i.App - Amount: 1
